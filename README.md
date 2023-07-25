@@ -1,4 +1,4 @@
-# solidity_basic_program
+# What i have learned about Solidity so far.
 
 ### Day 1 - My First Contract 
 - Learned about Solidity contract structure
