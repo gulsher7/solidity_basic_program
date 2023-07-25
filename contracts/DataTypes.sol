@@ -6,6 +6,7 @@ contract DataTypes {
   uint public int_val = 10;//
   string public name = "Gulsher";
   bytes public characters = "abc";
+  address public add_val = msg.sender;
   enum my_enum {_intellect, _developer}
 
   function Enum() public pure returns(my_enum){
