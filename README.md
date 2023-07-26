@@ -11,7 +11,7 @@
 
 ### Day 3 - Operators 
 - Learned about operators
-- Check how to for loop work in solidity  
-- Check if else if working in solidity
-
+- Check how for loop works in solidity  
+- Check how if else works in solidity
+- Check break and continue statements work flow
 
