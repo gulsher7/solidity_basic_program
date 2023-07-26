@@ -9,4 +9,9 @@
 - Created a simple smart contract for defined the variables with it's types.
 - Learned about variables and it's scope
 
+### Day 3 - Operators 
+- Learned about operators
+- Check how to for loop work in solidity  
+- Check if else if working in solidity
+
 
