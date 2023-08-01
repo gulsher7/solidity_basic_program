@@ -15,3 +15,10 @@
 - Check how if else works in solidity
 - Check break and continue statements work flow
 
+
+### Day 4 - 6 :  Smart Contracts. 
+- Create an account on metamask
+- Added 3 new account in metamask.
+- Create a smart contract for lotterr.
+- Transfer ether in winning user account.
+
